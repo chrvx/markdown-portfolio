@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+### Last books I read :
+* The Lord of the Rings :ring:
+* Earthsea
+* The french indian war
